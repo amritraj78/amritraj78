@@ -6,8 +6,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝐏ᴏᴡᴅᴇʀᴇᴅ+𝐁ʏ+𝐀ᴍʀɪᴛ+𝐊ɪɴɢ🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>𝐓ᴇᴀᴍ 𝐏ᴜʀᴠɪ 𝐁ᴏᴛs</b></h1>
-<p align="center"><a href="https://t.me/ll_BRANDED_ll"><img src="https://telegra.ph/file/51cb8a22e65caa4382879.jpg" width="400"></a></p>
+<h1 align="center"><b>𝐓ᴇᴀᴍ 𝐁ʀᴀɴᴅᴇᴅ 𝐁ᴏᴛs</b></h1>
+<p align="center"><a href="https://t.me/ll_BRANDED_ll"><img src="https://files.catbox.moe/r8lice.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"
   
@@ -16,7 +16,7 @@
 ### 𝗩ɪsɪᴛᴏʀs 🍹
 
 <!--
-**TEAMPURVI/TEAMPURVI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BRANDED/BRANDED** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 <p align="center">
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TEAMPURVI&&show_icons=true&theme=midnight-purple" alt="TEAMPURVI"/></p>        
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amritraj78&&show_icons=true&theme=midnight-purple" alt="amritraj78"/></p>        
  
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amritraj78&layout=compact&theme=tokyonight" align="center">
